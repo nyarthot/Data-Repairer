@@ -6,5 +6,4 @@
 
 # Description:
 If your computer was infected by a virus that erases your files in windows this software will help you recover them. 
-
 Original mind is a .bat made .exe compiled in IExpress, but I would like that from being a .bat to a graphic application made in java that is multiplatform. 
