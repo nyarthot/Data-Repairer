@@ -1,6 +1,6 @@
 # Data-Repairer
 ---
-![](https://img.shields.io/badge/vercion-v1.0.0-blue)
+![](https://img.shields.io/badge/version-v1.0.0-blue)
 ![](https://img.shields.io/badge/build-passing-gree)
 ![](https://img.shields.io/badge/platform-Win64-yellow)
 
