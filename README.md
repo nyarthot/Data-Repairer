@@ -1,7 +1,7 @@
 # Data-Repairer
 ---
 ![](https://img.shields.io/badge/vercion-v1.0.0-blue)
-![](https://ci.appveyor.com/api/projects/status/urdqjrik5u521fac/branch/master?svg=true")
+![](https://img.shields.io/badge/build-passing-gree)
 ![](https://img.shields.io/badge/platform-Win64-yellow)
 
 # Español:
